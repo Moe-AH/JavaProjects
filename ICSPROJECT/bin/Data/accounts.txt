@@ -1,0 +1,5 @@
+1001,Jhone Doe,9262.5
+1002,Emly Martha,4523.34
+1006,Mohamme Alhassan,4400.0
+1007,Ahmed Khaled,7600.0
+1008,Saad A,54645.0
